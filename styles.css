@@ -102,6 +102,7 @@ article { margin: 0 0 18px; }
 .meta { margin: 4px 0 6px; color: var(--muted); font-size: 13px; }
 ul { margin: 0; padding-left: 18px; }
 li { margin: 2px 0; }
+.more { font-size: 14px; color: var(--muted); }
 .split {
   display: grid;
   grid-template-columns: 1.2fr 1fr;
