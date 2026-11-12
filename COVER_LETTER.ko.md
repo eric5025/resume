@@ -12,7 +12,7 @@ HENNGE 채용팀께,
 
 웹을 만들기 전, 고3에 창원기전 관리팀에서 CAD 도면 수정과 근태·급여 업무를 했습니다. 소프트웨어가 빈 에디터가 아니라 회사의 업무 흐름 안에 있다는 걸 그때 배웠습니다. 이후 IT로 옮겼습니다. 모동구에서는 기획·프론트엔드 팀장으로, 에브리타임과 SNS에 흩어진 동아리 모집을 Next.js 한곳으로 모았고 UI 구조와 협업 규칙을 맡았습니다. 내 손안의 스마트 한국여행(TravelLens)은 공공데이터·지도·CCTV·사진 검색을 묶어 장소 이름을 몰라도 한국을 찾게 했습니다. Pitch Coach는 발표를 녹음해 STT·발음·속도·구조와 AI 피드백을 돌려줍니다.
 
-PHP/Laravel·MariaDB 쇼핑몰과 사이트, Gemini 추천이 있는 Swift KBO 앱, Unity·Access 작업도 있습니다. Spring과 AWS도 배웠습니다. 한 강의만 따라가서가 아니라, 만들면서 스택이 늘었습니다.
+PHP/Laravel·MariaDB 쇼핑몰과 사이트, Gemini 추천이 있는 Swift KBO 앱, Unity·Access 작업도 있습니다. Spring을 배웠고, AWS는 EC2·S3·RDS를 사용했습니다. 한 강의만 따라가서가 아니라, 만들면서 스택이 늘었습니다.
 
 챌린지는 다른 근육이었습니다. 미션 1은 반복문과 컴프리헨션 없이 케이스를 파싱하고, 개수가 다르면 `-1`, 0 이하만 4제곱한 뒤 입력을 모두 모은 다음에 출력했습니다. 미션 3은 RFC 6238 HMAC-SHA-512 TOTP와 HTTP Basic Auth였고, SHA-512 벡터로 검증한 다음 POST를 보냈습니다. 서버는 HTTP 200과 Congratulations를 반환했습니다.
 

@@ -12,7 +12,7 @@ I am in the final year of the three-year Computer Software program at Induk Univ
 
 Before I wrote web apps I worked on the administration team at Changwon Gijeon in my last year of high school: CAD drawing edits, attendance, and payroll. That job taught me that software sits inside a company’s actual flow, not on a blank editor. I then moved into IT. On 모동구 I was planning and frontend lead: we pulled club recruiting off Everytime and SNS into one Next.js service, and I owned UI structure, conventions, and collaboration with the rest of the team. TravelLens (내 손안의 스마트 한국여행) combines public data, maps, CCTV, and photo search so someone can explore Korea without already knowing the place name. Pitch Coach records a presentation and returns STT, pronunciation, speed, structure, and AI feedback.
 
-I also built PHP/Laravel shops and sites on MariaDB, a Swift KBO app with Gemini recommendations, and smaller Unity and Access projects. I have studied Spring and AWS as well. The stack is mixed because I learned by shipping, not by staying in one course.
+I also built PHP/Laravel shops and sites on MariaDB, a Swift KBO app with Gemini recommendations, and smaller Unity and Access projects. I have studied Spring and used AWS (EC2, S3, RDS) as well. The stack is mixed because I learned by shipping, not by staying in one course.
 
 The HENNGE challenge used a different muscle. Mission 1 parsed test cases with no `for`, `while`, or comprehensions, rejected mismatched lengths, and summed fourth powers of non-positive numbers only after all input was read. Mission 3 was RFC 6238 TOTP with HMAC-SHA-512 and HTTP Basic Auth. I checked the SHA-512 vectors, then POSTed. The API returned HTTP 200 and Congratulations.
 

@@ -74,7 +74,7 @@ Swift, UIKit, Xcode, Gemini API, Git
 | Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap |
 | Mobile | React Native, Expo, Swift, UIKit |
 | Backend / DB | PHP, Laravel, Spring, Node.js, MariaDB, MySQL, Firebase |
-| Cloud | AWS, Vercel, Firebase |
+| Cloud | AWS (EC2, S3, RDS), Vercel, Firebase |
 | Other | Unity, C#, Python, MS Access, Git, GitHub, Linux, VS Code, Notion |
 
 ---
