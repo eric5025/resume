@@ -84,6 +84,6 @@ React Native, Node.js, Firebase, 공공데이터, Google Maps, AI 이미지 검�
 
 ## 학력
 
-대한민국 학부생 · 2024 – 현재 · 학번 `2024000365`
+**인덕대학교** 컴퓨터소프트웨어학과 · 3학년 졸업반 · 학번 `2024000365`
 
 자기소개서: [COVER_LETTER.ko.md](./COVER_LETTER.ko.md) · English: [README.md](./README.md)

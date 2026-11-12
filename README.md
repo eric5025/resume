@@ -91,8 +91,8 @@ Swift, UIKit, Xcode, Gemini API, Git
 
 ## Education
 
-Undergraduate student in Korea · 2024 – Present  
-Student ID `2024000365`
+**Induk University** · Department of Computer Software  
+3rd year, graduating class · Student ID `2024000365`
 
 ---
 
