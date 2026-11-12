@@ -8,7 +8,7 @@ https://github.com/eric5025 · https://github.com/eric5025/resume
 
 Dear HENNGE recruiting team,
 
-I am a graduating third-year Computer Software student at Induk University. I am applying because I want to grow as an engineer on a team that ships to real users, not only as someone who finishes tutorials. HENNGE’s challenge asked for working code, a private gist, and a protocol I had to read myself. That matches how I want to work.
+I am in the final year of the three-year Computer Software program at Induk University (associate degree, expected February 2027). I am applying because I want to grow as an engineer on a team that ships to real users, not only as someone who finishes tutorials. HENNGE’s challenge asked for working code, a private gist, and a protocol I had to read myself. That matches how I want to work.
 
 Before I wrote web apps I worked on the administration team at Changwon Gijeon in my last year of high school: CAD drawing edits, attendance, and payroll. That job taught me that software sits inside a company’s actual flow, not on a blank editor. I then moved into IT. On 모동구 I was planning and frontend lead: we pulled club recruiting off Everytime and SNS into one Next.js service, and I owned UI structure, conventions, and collaboration with the rest of the team. TravelLens (내 손안의 스마트 한국여행) combines public data, maps, CCTV, and photo search so someone can explore Korea without already knowing the place name. Pitch Coach records a presentation and returns STT, pronunciation, speed, structure, and AI feedback.
 

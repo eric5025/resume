@@ -8,16 +8,6 @@
 
 ---
 
-## 경력
-
-**창원기전 · 관리팀** · 고등학교 3학년
-
-- CAD 도면 수정
-- 근태 및 급여 관리
-- 현장 업무 흐름 이해
-
----
-
 ## 주요 프로젝트
 
 ### [Pitch Coach](https://github.com/eric5025/pitch-coach-front) — AI 발표 코칭 앱
@@ -84,6 +74,12 @@ React Native, Node.js, Firebase, 공공데이터, Google Maps, AI 이미지 검�
 
 ## 학력
 
-**인덕대학교** 컴퓨터소프트웨어학과 · 3학년 졸업반 · 학번 `2024000365`
+**인덕대학교** 컴퓨터소프트웨어학과 (3년제 전문학사)  
+2024.03 – 2027.02 졸업예정
+
+## 기타 경험
+
+**창원기전 · 관리팀** · 고등학교 3학년  
+CAD 도면 수정, 근태 및 급여 관리.
 
 자기소개서: [COVER_LETTER.ko.md](./COVER_LETTER.ko.md) · English: [README.md](./README.md)

@@ -8,17 +8,6 @@ I solve problems by combining on-site work experience with IT skills. In my thir
 
 ---
 
-## Experience
-
-**Changwon Gijeon (창원기전) · Administration team**  
-High school, senior year
-
-- Edited CAD drawings
-- Attendance and payroll administration
-- Learned day-to-day operations and how work actually moves through a company
-
----
-
 ## Selected projects
 
 ### [Pitch Coach](https://github.com/eric5025/pitch-coach-front) — AI presentation coaching app
@@ -91,8 +80,13 @@ Swift, UIKit, Xcode, Gemini API, Git
 
 ## Education
 
-**Induk University** · Department of Computer Software  
-3rd year, graduating class · Student ID `2024000365`
+**Induk University** (인덕대학교) · Department of Computer Software  
+Three-year associate degree (전문학사) · Final year · Expected graduation Feb 2027
+
+## Other experience
+
+**Changwon Gijeon (창원기전) · Administration team** · High school, senior year  
+CAD drawing edits, attendance and payroll.
 
 ---
 
