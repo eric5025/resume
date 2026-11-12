@@ -9,6 +9,14 @@ React, Next.js, TypeScript로 웹·모바일 제품을 만들고, 백엔드·인
 
 ## 주요 프로젝트
 
+### [Pitch Coach](https://github.com/eric5025/pitch-coach-front) — AI 발표 코칭 앱
+Expo / React Native, TypeScript, Expo Router, expo-audio, Secure Store
+
+- 면접·PT·스피치 발표를 녹음하거나 오디오 파일을 업로드
+- STT, 발음, 말 속도, 발표 구조, AI 피드백과 점수까지 분석 파이프라인
+- JWT 로그인(access/refresh 재발급), 홈 화면의 최근 분석 기록
+- `recording` / `analysis` / `auth` / `history` 기능 단위 구조, REST 백엔드 연동
+
 ### [TravelLens](https://github.com/eric5025/k-finder) — AI 한국 기념품 인식 앱
 Expo / React Native, TypeScript, Firebase, Supabase
 

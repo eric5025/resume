@@ -9,6 +9,14 @@ I build web and mobile products with React, Next.js, and TypeScript, and I am ex
 
 ## Selected projects
 
+### [Pitch Coach](https://github.com/eric5025/pitch-coach-front) — AI presentation coaching app
+Expo / React Native, TypeScript, Expo Router, expo-audio, Secure Store
+
+- Record a pitch or upload audio for interview, PT, and speech practice
+- Analysis pipeline: STT, pronunciation, speaking speed, structure, then AI feedback with a score
+- JWT login with access/refresh token reissue; practice history on the home screen
+- Feature-based app structure (`recording`, `analysis`, `auth`, `history`) talking to a REST backend
+
 ### [TravelLens](https://github.com/eric5025/k-finder) — AI souvenir recognition app
 Expo / React Native, TypeScript, Firebase, Supabase
 
