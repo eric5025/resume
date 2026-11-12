@@ -67,8 +67,9 @@ React Native, Node.js, Firebase, 공공데이터, Google Maps, AI 이미지 검�
 
 프론트: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind, Bootstrap  
 모바일: React Native, Expo, Swift, UIKit  
-백엔드/DB: PHP, Laravel, Node.js, MariaDB, MySQL, Firebase  
-기타: Unity, C#, Python, MS Access, Git, GitHub, Vercel, Linux
+백엔드/DB: PHP, Laravel, Spring, Node.js, MariaDB, MySQL, Firebase  
+클라우드: AWS, Vercel, Firebase  
+기타: Unity, C#, Python, MS Access, Git, GitHub, Linux
 
 ---
 
