@@ -60,6 +60,7 @@ React Native, Node.js, Firebase, 공공데이터, Google Maps, AI 이미지 검�
 | 2026 | [jshop](https://github.com/eric5025/jshop) ([라이브](https://jshop-seven.vercel.app)) | Next.js |
 | 2026 | [Brew & Bloom](https://github.com/eric5025/brew-bloom-cafe) | React |
 | 2025.01 | [login-lecture](https://github.com/eric5025/login-lecture) | Node.js |
+| 2026.10 | Docker + AWS 컨테이너 배포 — Dockerfile → ECR → ECS(Fargate), 퍼블릭 IP 접속 | Docker, nginx, AWS ECR, ECS |
 
 ---
 
@@ -70,7 +71,7 @@ React Native, Node.js, Firebase, 공공데이터, Google Maps, AI 이미지 검�
 백엔드/DB: PHP, Laravel, Spring, Node.js, MariaDB, MySQL, Firebase  
 클라우드: AWS (EC2, S3, RDS), Vercel, Firebase  
 인증/보안: JWT(토큰 재발급), TOTP(RFC 6238), HMAC-SHA-512, HTTP Basic Auth  
-DevOps(학습 중): Docker(실습 수준), GitHub, Vercel 배포, Linux  
+DevOps/컨테이너: Docker(Dockerfile 작성·빌드), AWS ECR/ECS(Fargate) 배포, GitHub Actions(PR 자동 리뷰어·라벨), Vercel 배포, Linux  
 기타: Unity, C#, Python, MS Access, Git, Notion
 
 ---

@@ -64,6 +64,7 @@ Swift, UIKit, Xcode, Gemini API, Git
 | 2026 | [jshop](https://github.com/eric5025/jshop) clothing shop ([live](https://jshop-seven.vercel.app)) | Next.js, TypeScript, Zustand |
 | 2026 | [Brew & Bloom](https://github.com/eric5025/brew-bloom-cafe) cafe demo ([live](https://brew-bloom-cafe-one.vercel.app)) | React, Vite |
 | 2025.01 | [login-lecture](https://github.com/eric5025/login-lecture) login/register | Node.js |
+| 2026.10 | Docker + AWS container deploy — Dockerfile → ECR → ECS (Fargate), public-IP access | Docker, nginx, AWS ECR, ECS |
 
 ---
 
@@ -76,7 +77,7 @@ Swift, UIKit, Xcode, Gemini API, Git
 | Backend / DB | PHP, Laravel, Spring, Node.js, MariaDB, MySQL, Firebase |
 | Cloud | AWS (EC2, S3, RDS), Vercel, Firebase |
 | Auth / Security | JWT (token refresh), TOTP (RFC 6238), HMAC-SHA-512, HTTP Basic Auth |
-| DevOps (learning) | Docker (hands-on / coursework), GitHub, Vercel deploys, Linux |
+| DevOps / Containers | Docker (write Dockerfile, build/run), AWS ECR / ECS (Fargate) deploy, GitHub Actions (PR auto-reviewer / labels), Vercel deploys, Linux |
 | Other | Unity, C#, Python, MS Access, Git, VS Code, Notion |
 
 ---
