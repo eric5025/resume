@@ -17,7 +17,7 @@ Expo / React Native, TypeScript, Expo Router, expo-audio · after the 2026.06 PD
 - STT, pronunciation, speaking speed, structure analysis, then AI feedback and a score
 - JWT login with token refresh; practice history
 
-### [모동구](https://github.com/eric5025/9term-main-front) — club matching platform
+### [모동구](https://github.com/modern-agile-team/9term-main-front) — club matching platform
 2025.03.03 – 2025.12.26 · **Planning / frontend lead**  
 Next.js, TypeScript, Tailwind CSS, MySQL, Vercel, GitHub, Notion
 
