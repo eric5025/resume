@@ -75,6 +75,7 @@ Swift, UIKit, Xcode, Gemini API, Git
 | Mobile | React Native, Expo, Swift, UIKit |
 | Backend / DB | PHP, Laravel, Spring, Node.js, MariaDB, MySQL, Firebase |
 | Cloud | AWS (EC2, S3, RDS), Vercel, Firebase |
+| Auth / Security | JWT (token refresh), TOTP (RFC 6238), HMAC-SHA-512, HTTP Basic Auth |
 | Other | Unity, C#, Python, MS Access, Git, GitHub, Linux, VS Code, Notion |
 
 ---
