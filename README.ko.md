@@ -10,6 +10,13 @@
 
 ## 주요 프로젝트
 
+### HENNGE Challenge 004 — 재귀 Python & TOTP 인증
+2026.11 · 개인 · Python, HMAC-SHA-512, RFC 6238, HTTP Basic Auth
+
+- 미션 1: `for`·`while`·컴프리헨션 없이 재귀만으로 입력 파싱, 길이 불일치 거부, 0 이하 값의 4제곱 합
+- 미션 3: RFC 6238 TOTP를 HMAC-SHA-512로 직접 구현, HTTP Basic Auth POST → 서버 HTTP 200·Congratulations
+- RFC를 직접 읽고 구현
+
 ### [Pitch Coach](https://github.com/eric5025/pitch-coach-front) — AI 발표 코칭 앱
 Expo / React Native, TypeScript · 2026.06 이력서 이후 작업
 
@@ -23,8 +30,8 @@ Next.js, TypeScript, Tailwind CSS, MySQL, Vercel, GitHub, Notion
 
 - 에브리타임·SNS에 흩어진 동아리 모집을 한곳으로 모음
 - 관심사·활동 성향 기반 탐색과 지원
-- 프론트엔드 팀장으로 UI/UX, 컴포넌트 구조, 코드 컨벤션 정의
-- SSR·SEO, GitHub 코드 리뷰, Vercel 배포
+- 5개 동아리 그룹 대상 약 3개월 운영 (프로젝트형이라 종료 후 서버 내림, 현재 접속 불가)
+- 프론트엔드 팀장으로 화면 설계, 컴포넌트 구조, 코드 컨벤션, GitHub 코드 리뷰
 
 ### [내 손안의 스마트 한국여행 (TravelLens)](https://github.com/eric5025/k-finder)
 2025.09 – 2026.05 · 개인  
@@ -68,11 +75,11 @@ React Native, Node.js, Firebase, 공공데이터, Google Maps, AI 이미지 검�
 
 프론트: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind, Bootstrap  
 모바일: React Native, Expo, Swift, UIKit  
-백엔드/DB: PHP, Laravel, Spring, Node.js, MariaDB, MySQL, Firebase  
+백엔드/DB: Node.js, PHP, Laravel, Spring, Python, MariaDB, MySQL, Firebase  
 클라우드: AWS (EC2, S3, RDS), Vercel, Firebase  
 인증/보안: JWT(토큰 재발급), TOTP(RFC 6238), HMAC-SHA-512, HTTP Basic Auth  
 DevOps/컨테이너: Docker(Dockerfile 작성·빌드), AWS ECR/ECS(Fargate) 배포, GitHub Actions(PR 자동 리뷰어·라벨), Vercel 배포, Linux  
-기타: Unity, C#, Python, MS Access, Git, Notion
+기타: Unity, C#, MS Access, Git, Notion
 
 ---
 

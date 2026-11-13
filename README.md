@@ -10,6 +10,13 @@ I solve problems by combining on-site work experience with IT skills. In my thir
 
 ## Selected projects
 
+### HENNGE Challenge 004 — recursive Python & TOTP auth
+2026.11 · Individual · Python, HMAC-SHA-512, RFC 6238, HTTP Basic Auth
+
+- Mission 1: parsed input with recursion only (no `for`/`while`/comprehensions), rejected mismatched lengths, summed fourth powers of non-positive values
+- Mission 3: implemented RFC 6238 TOTP with HMAC-SHA-512, POSTed over HTTP Basic Auth → server returned HTTP 200 and Congratulations
+- Read and implemented straight from the RFC
+
 ### [Pitch Coach](https://github.com/eric5025/pitch-coach-front) — AI presentation coaching app
 Expo / React Native, TypeScript, Expo Router, expo-audio · after the 2026.06 PDF
 
@@ -23,8 +30,8 @@ Next.js, TypeScript, Tailwind CSS, MySQL, Vercel, GitHub, Notion
 
 - Built a single place to find clubs, instead of Everytime and scattered SNS posts
 - Match clubs from interests and activity style, then apply
-- Designed the UI/UX, component structure, and code conventions as frontend lead
-- SSR for load time and SEO; GitHub reviews and Vercel deploys
+- Ran it for ~3 months with 5 club groups; a project-type site, so the server was taken down after the run and it is no longer live
+- As frontend lead: screen design, component structure, code conventions, GitHub reviews
 
 ### [내 손안의 스마트 한국여행 (TravelLens)](https://github.com/eric5025/k-finder)
 2025.09 – 2026.05 · Individual  
@@ -74,11 +81,11 @@ Swift, UIKit, Xcode, Gemini API, Git
 | --- | --- |
 | Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap |
 | Mobile | React Native, Expo, Swift, UIKit |
-| Backend / DB | PHP, Laravel, Spring, Node.js, MariaDB, MySQL, Firebase |
+| Backend / DB | Node.js, PHP, Laravel, Spring, Python, MariaDB, MySQL, Firebase |
 | Cloud | AWS (EC2, S3, RDS), Vercel, Firebase |
 | Auth / Security | JWT (token refresh), TOTP (RFC 6238), HMAC-SHA-512, HTTP Basic Auth |
 | DevOps / Containers | Docker (write Dockerfile, build/run), AWS ECR / ECS (Fargate) deploy, GitHub Actions (PR auto-reviewer / labels), Vercel deploys, Linux |
-| Other | Unity, C#, Python, MS Access, Git, VS Code, Notion |
+| Other | Unity, C#, MS Access, Git, VS Code, Notion |
 
 ---
 
