@@ -1,10 +1,10 @@
 # Kwon Hyuk Jin · 권혁진
 
-**Junior developer** · Korea  
+**Full-stack web developer (junior)** · frontend + backend + cloud deploy · Korea  
 010-9271-3940 · [eric5025@naver.com](mailto:eric5025@naver.com) · [kweon5025@gmail.com](mailto:kweon5025@gmail.com)  
 [github.com/eric5025](https://github.com/eric5025) · [Resume site](https://eric5025.github.io/resume)
 
-I solve problems by combining on-site work experience with IT skills. In my third year of high school I worked on the administration team at Changwon Gijeon (창원기전), editing CAD drawings and handling attendance and payroll, which taught me how an organization actually runs. I then moved into IT, learned React and Next.js, and shipped a travel app and a club-matching platform. As frontend lead on that platform I owned UI design and collaboration. I want to keep building things that are useful in the real world.
+I solve problems by combining on-site work experience with IT skills. In my third year of high school I worked on the administration team at Changwon Gijeon (창원기전), editing CAD drawings and handling attendance and payroll, which taught me how an organization actually runs. I then moved into IT: I build frontends in React/Next.js/TypeScript and backends in Node.js and PHP/Laravel on MariaDB, and I have deployed a container to AWS (ECR/ECS, Fargate). As frontend lead on the 모동구 platform I owned UI design and collaboration. I am growing into a full-stack developer who works across both the frontend and the backend. (English: two-month language study in the Philippines; can communicate with locals in English.)
 
 ---
 
