@@ -23,4 +23,4 @@ PHP/Laravel·MariaDB 쇼핑몰과 사이트, Gemini 추천이 있는 Swift KBO �
 검토해 주셔서 감사합니다.
 
 권혁진  
-2026년 11월 12일
+2026년 11월 14일

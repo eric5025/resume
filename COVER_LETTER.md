@@ -24,4 +24,4 @@ Thank you for reviewing the challenge, this resume, and this letter.
 
 Sincerely,  
 Kwon Hyuk Jin  
-12 November 2026
+14 November 2026

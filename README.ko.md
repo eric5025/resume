@@ -17,7 +17,7 @@ Expo / React Native, TypeScript · 2026.06 이력서 이후 작업
 - STT, 발음, 말 속도, 발표 구조, AI 피드백·점수
 - JWT 로그인(토큰 재발급), 연습 기록
 
-### [모동구](https://github.com/eric5025/9term-main-front) — 동아리 매칭 플랫폼
+### [모동구](https://github.com/modern-agile-team/9term-main-front) — 동아리 매칭 플랫폼
 2025.03.03 – 2025.12.26 · **기획 / 프론트엔드 팀장**  
 Next.js, TypeScript, Tailwind CSS, MySQL, Vercel, GitHub, Notion
 
