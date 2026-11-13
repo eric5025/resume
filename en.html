@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kwon Hyuk Jin — Resume</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bar">
+    <a href="index.html">한국어</a>
+    <a href="en.html" aria-current="page">English</a>
+    <a href="resume.pdf">Resume PDF</a>
+    <a href="csjob-portfolio.pdf">Portfolio PDF</a>
+    <button type="button" onclick="window.print()">Print / Save PDF</button>
+  </div>
+
+  <article class="page">
+    <header>
+      <p class="role">Full-stack web developer · frontend + backend · cloud deploy</p>
+      <h1>Kwon Hyuk Jin <span>권혁진</span></h1>
+      <p class="sub">Induk University · Dept. of Computer Software (3-year associate) · 2024.03 – 2027.02 expected · Entry-level · Born 2002</p>
+      <p class="contacts">
+        <a href="tel:01092713940">010-9271-3940</a>
+        <a href="mailto:eric5025@naver.com">eric5025@naver.com</a>
+        <a href="mailto:kweon5025@gmail.com">kweon5025@gmail.com</a>
+        <a href="https://github.com/eric5025">github.com/eric5025</a>
+      </p>
+    </header>
+
+    <section>
+      <h2>About</h2>
+      <p>
+        I solve problems by combining on-site work experience with IT skills.
+        In my third year of high school I worked about seven months on the administration team at Changwon Gijeon, editing CAD drawings and handling construction non-conformance, attendance, and payroll.
+        I then moved into IT: I build frontends in React, Next.js, and TypeScript, and backends in Node.js, PHP/Laravel, and MariaDB.
+        As frontend lead on the club-matching platform 모동구 I owned UI design and collaboration, and I have also deployed containers with Docker and AWS (ECR/ECS).
+        I am growing into a full-stack developer who works across both the frontend and the backend.
+      </p>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <p><strong>Frontend</strong> React, Next.js, TypeScript, JavaScript, HTML, CSS3, Tailwind CSS, Bootstrap, ESLint</p>
+      <p><strong>Mobile</strong> React Native, Expo, Swift, UIKit, Android Studio</p>
+      <p><strong>Backend / DB</strong> Node.js, PHP, Laravel, Spring, Python, MariaDB, MySQL, Firebase</p>
+      <p><strong>Cloud</strong> AWS (EC2, S3, RDS), Vercel, Firebase</p>
+      <p><strong>Auth / Security</strong> JWT (token refresh), TOTP (RFC 6238), HMAC-SHA-512, HTTP Basic Auth</p>
+      <p><strong>DevOps / Containers</strong> Docker (write Dockerfile, build/run), AWS ECR / ECS (Fargate) deploy, GitHub Actions (PR auto-reviewer / labels), Vercel deploys, Linux</p>
+      <p><strong>Other</strong> Unity, C#, AutoCAD, MS Access, Git, Notion</p>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+
+      <div class="proj">
+        <h3>HENNGE Challenge 004 — recursive Python &amp; TOTP auth</h3>
+        <p class="meta">2026.11 · Individual · Python, HMAC-SHA-512, RFC 6238, HTTP Basic Auth</p>
+        <p>Mission 1: parsed input with recursion only (no <code>for</code>/<code>while</code>/comprehensions), rejected mismatched lengths, and summed fourth powers of non-positive values. Mission 3: implemented RFC 6238 TOTP with HMAC-SHA-512 and POSTed over HTTP Basic Auth; the server returned HTTP 200 and Congratulations. Read and implemented straight from the RFC.</p>
+      </div>
+
+      <div class="proj">
+        <h3>Pitch Coach — AI presentation coaching app</h3>
+        <p class="meta">Expo / React Native / TypeScript · <a href="https://github.com/eric5025/pitch-coach-front">GitHub</a></p>
+        <p>Record or upload interview, PT, and speech practice, then get STT, pronunciation, speaking speed, structure analysis, AI feedback, and a score. JWT login with token refresh; practice history synced to a REST backend.</p>
+      </div>
+
+      <div class="proj">
+        <h3>모동구 — club matching platform</h3>
+        <p class="meta">2025.03.03 – 2025.12.26 · Planning / frontend lead · 5 people · Next.js, TypeScript, Tailwind CSS, MySQL, Vercel, GitHub, Notion · <a href="https://github.com/modern-agile-team/9term-main-front">GitHub</a></p>
+        <p>Built a single place to find clubs instead of Everytime and scattered SNS posts, matching by interests and activity style. Ran it for about three months with five club groups; as a project-type site the server was taken down after the run and it is no longer live. As frontend lead I owned screen design, component structure, code conventions, and GitHub code reviews. Modern Agile cohort 9 team project.</p>
+      </div>
+
+      <div class="proj">
+        <h3>TravelLens (내 손안의 스마트 한국여행)</h3>
+        <p class="meta">2025.09 – 2026.05 · Individual · React Native, Node.js, Firebase, public data APIs, Google Maps, Perplexity · <a href="https://github.com/eric5025/k-finder">GitHub</a></p>
+        <p>Map-first travel app: crowding, transit, CCTV, shops, toilets, parking, bike share, and events. Upload a photo to get place and tourism info even without knowing the name. Combines public data and AI image recognition for Korea travel.</p>
+      </div>
+
+      <div class="proj">
+        <h3>PHP supercar shop</h3>
+        <p class="meta">2025.03.03 – 2025.06.18 · Individual · PHP, Bootstrap, HTML, MariaDB, Linux · <a href="https://github.com/eric5025/php_shop">GitHub</a></p>
+        <p>Auth, catalog, cart, orders, payments, reviews, and an admin for products, orders, and members. Search, paging, input validation, and responsive layout.</p>
+      </div>
+
+      <div class="proj">
+        <h3>Laravel F1 site</h3>
+        <p class="meta">2025.11.17 – 2025.12.18 · Individual · PHP Laravel, Bootstrap, MariaDB, Linux · <a href="https://github.com/eric5025/lalavel_shop">GitHub</a></p>
+        <p>Race schedule, drivers, standings, circuits, news, member auth, and admin — modeled after the official F1 site.</p>
+      </div>
+
+      <div class="proj">
+        <h3>Laravel construction studio</h3>
+        <p class="meta">2025.12.01 – 2025.12.18 · Individual · PHP Laravel, Bootstrap, MariaDB, Linux</p>
+        <p>Responsive construction portfolio site with project cases, sales info, company intro, auth, and admin.</p>
+      </div>
+
+      <div class="proj">
+        <h3>Unity 2D platform jump game</h3>
+        <p class="meta">2025.12 · Individual · Unity, C#, Visual Studio</p>
+        <p>Character move/jump, collision, score, game over/restart, and high-score UI — plan, build, and test.</p>
+      </div>
+
+      <div class="proj">
+        <h3>KBO info iOS app</h3>
+        <p class="meta">2024.03 – 2024.06 · Swift, UIKit, Xcode, Gemini API</p>
+        <p>KBO league info, Gemini natural-language team recommendation, player of the day, YouTube cheer songs, and stadium maps.</p>
+      </div>
+
+      <div class="proj">
+        <h3>MS Access used-car sales form</h3>
+        <p class="meta">2024.12.07 – 2024.12.21 · Individual · MS Access</p>
+        <p>Simplified a complex Encar-style input flow so buyers only select what they need.</p>
+      </div>
+
+      <div class="proj">
+        <h3>CPP contest — C++ grammar study material</h3>
+        <p class="meta">2024.06.07 – 2024.06.13 · Individual · PowerPoint · Induk University C++ manual contest</p>
+        <p>One-page overview of C++ syntax, operators, control flow, functions, classes, exceptions, and pointers.</p>
+      </div>
+
+      <div class="proj">
+        <h3>Docker + AWS container deploy</h3>
+        <p class="meta">2026.10 · Individual · Docker, nginx, AWS ECR, AWS ECS (Fargate)</p>
+        <p>Packaged a static nginx (alpine) site in a Dockerfile, built and ran locally, pushed to AWS ECR, and deployed on ECS (Fargate) through public-IP access. Full container build → registry → orchestration pipeline.</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <table>
+        <tr>
+          <th>2024.03 – 2027.02 (expected)</th>
+          <td><strong>Induk University</strong> · Dept. of Computer Software · 3-year associate degree (전문학사) · final year</td>
+        </tr>
+        <tr>
+          <th>2018.03 – 2021.01</th>
+          <td><strong>Seoul Urban Science &amp; Technology High School</strong> · plant / industrial equipment track · graduated</td>
+        </tr>
+      </table>
+    </section>
+
+    <section>
+      <h2>Experience &amp; military</h2>
+      <table>
+        <tr>
+          <th>2020.09 – 2021.03</th>
+          <td>
+            <strong>Changwon Gijeon (창원기전)</strong> · administration team · 7 months · during high school, 3rd year
+            · CAD edits, construction non-conformance, attendance and payroll. Learned that software lives inside a company's real workflow.
+          </td>
+        </tr>
+        <tr>
+          <th>2021.12 – 2023.06</th>
+          <td>Military service · ROK Army, sergeant · completed</td>
+        </tr>
+      </table>
+    </section>
+
+    <section>
+      <h2>Education &amp; activities</h2>
+      <table>
+        <tr><th>2026.07.05 – 2026.08.29</th><td>Philippines language study, 2 months · everyday / workplace English with locals</td></tr>
+        <tr><th>2024.12 – 2025.12</th><td>Modern Agile cohort 9 · frontend lead · built and shipped 모동구</td></tr>
+        <tr><th>2024.12 – 2025.12</th><td>Induk University club · frontend lead (screen design, UI/UX, collaboration)</td></tr>
+        <tr><th>2026.05</th><td>QA industry career talk</td></tr>
+        <tr><th>2025.05</th><td>Cloud engineer career strategy talk</td></tr>
+        <tr><th>2024.12</th><td>Notion collaboration talk</td></tr>
+        <tr><th>2024.09</th><td>Software quality / testing techniques</td></tr>
+        <tr><th>2024.05</th><td>Certify &amp; Conquer CS course</td></tr>
+        <tr><th>2024.05</th><td>Korea Electronics Show (COEX) field visit</td></tr>
+        <tr><th>2023.09 – 2026.06</th><td>Myeongdong Korea Mart · customer service &amp; store ops (part-time)</td></tr>
+        <tr><th>2018.05 – 2019.08</th><td>Myeongdong La Luce wedding hall · parking (part-time)</td></tr>
+      </table>
+    </section>
+
+    <section>
+      <h2>Awards &amp; certifications</h2>
+      <table>
+        <tr><th>2026.06</th><td>React-based web frontend development — excellence · Induk University</td></tr>
+        <tr><th>2026.06</th><td>Next Data Analyst contest · Induk University</td></tr>
+        <tr><th>2026.06</th><td>Data analysis contest · Induk University</td></tr>
+        <tr><th>2025.12</th><td>Academic excellence award · Induk University</td></tr>
+        <tr><th>2025.12</th><td>Online shopping mall development contest · Induk University</td></tr>
+        <tr><th>2025.11</th><td>AWS service proficiency contest · Induk University</td></tr>
+        <tr><th>2025.11</th><td>Laravel web solution contest · Induk University</td></tr>
+        <tr><th>2025.10</th><td>Smart DBMS contest · Induk University</td></tr>
+        <tr><th>2024.06</th><td>C++ language manual contest · Induk University</td></tr>
+        <tr><th>2020.06</th><td>Gas technician · Welding technician · HRD Korea</td></tr>
+        <tr><th>2020.04</th><td>Class 1 ordinary driver’s license</td></tr>
+        <tr><th>2018.08</th><td>3D modeling department excellence · Seoul Urban Science &amp; Technology High School</td></tr>
+      </table>
+    </section>
+  </article>
+</body>
+</html>

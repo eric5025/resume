@@ -27,6 +27,7 @@ body {
   cursor: pointer;
 }
 .bar a:hover, .bar button:hover { background: #1e3a5f; color: #fff; }
+.bar a[aria-current="page"] { background: #1e3a5f; color: #fff; }
 
 .page {
   max-width: 900px;
