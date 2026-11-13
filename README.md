@@ -1,4 +1,4 @@
-# Kwon Hyuk Jin · 권혁진
+# Kweon Hyuk Jin · 권혁진
 
 **Full-stack web developer (junior)** · frontend + backend + cloud deploy · Korea  
 010-9271-3940 · [eric5025@naver.com](mailto:eric5025@naver.com) · [kweon5025@gmail.com](mailto:kweon5025@gmail.com)  
