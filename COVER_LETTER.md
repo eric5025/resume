@@ -1,6 +1,6 @@
 # Cover Letter — HENNGE
 
-**Kwon Hyuk Jin**  
+**Kweon Hyuk Jin**  
 010-9271-3940 · eric5025@naver.com · kweon5025@gmail.com  
 https://github.com/eric5025 · https://github.com/eric5025/resume
 
@@ -23,5 +23,5 @@ I am still early. I do not claim years of production backend experience. What I 
 Thank you for reviewing the challenge, this resume, and this letter.
 
 Sincerely,  
-Kwon Hyuk Jin  
+Kweon Hyuk Jin  
 14 November 2026
