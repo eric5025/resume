@@ -10,7 +10,7 @@ Dear HENNGE recruiting team,
 
 I am applying for the **Global Internship Program (GIP) — Full-stack pathway**. I am in the final year of the three-year Computer Software program at Induk University (associate degree, expected February 2027).
 
-I want to build my career in Japan as an engineer, in a global English-speaking team. HENNGE’s name comes from “change” and “challenge,” and that matches how I want to work: keep learning, take hard problems seriously, and improve through feedback. The GIP’s focus on mentoring, AWS practice, and fundamentals—not only shipping features—is why I chose this program over a generic internship.
+I want to build my career in Japan as an engineer, in a global English-speaking team. HENNGE’s name comes from “change” and “challenge,” and that matches how I want to work: keep learning, take hard problems seriously, and improve through feedback. I understand GIP as closer to guided training—learning full-stack and AWS fundamentals with mentors—than an internship that only pushes finished features. As someone still early in my career, that is the kind of program I need, so I chose it.
 
 Before I wrote web apps, I worked on the administration team at Changwon Gijeon in my last year of high school: CAD edits, attendance, and payroll. That job taught me that software sits inside a company’s real workflow, not only in an editor. I then moved into IT.
 
