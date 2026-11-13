@@ -4,7 +4,7 @@
 010-9271-3940 · [eric5025@naver.com](mailto:eric5025@naver.com) · [kweon5025@gmail.com](mailto:kweon5025@gmail.com)  
 [github.com/eric5025](https://github.com/eric5025) · [이력서 사이트](https://eric5025.github.io/resume)
 
-현장 실무 경험과 IT 역량을 결합해 문제를 해결하는 개발자입니다. 고등학교 3학년에 창원기전 관리팀에서 CAD 도면 수정, 근태 및 급여 관리를 하며 조직의 업무 흐름을 배웠습니다. 이후 IT로 전환해 React·Next.js·TypeScript로 프론트엔드를, Node.js·PHP/Laravel·MariaDB로 백엔드를 만들고, Docker·AWS(ECR/ECS)로 컨테이너 배포까지 경험했습니다. 모동구에서는 프론트엔드 팀장으로 UI 설계와 협업을 맡았습니다. 프론트와 백엔드를 모두 다루는 풀스택 개발자로 성장하고 있습니다. (영어: 필리핀 어학연수 2개월, 현지 영어 소통 가능)
+현장 실무 경험과 IT 역량을 결합해 문제를 해결하는 개발자입니다. 고등학교 3학년에 창원기전 관리팀에서 CAD 도면 수정, 근태 및 급여 관리를 하며 조직의 업무 흐름을 배웠습니다. 이후 IT로 전환해 React·Next.js·TypeScript로 프론트엔드를, Node.js·PHP/Laravel·MariaDB로 백엔드를 만들고, Docker·AWS(ECR/ECS)로 컨테이너 배포까지 경험했습니다. 모동구에서는 프론트엔드 팀장으로 UI 설계와 협업을 맡았습니다. 프론트와 백엔드를 모두 다루는 풀스택 개발자로 성장하고 있습니다. (영어: 필리핀 어학연수 2개월, 2026.07–08, 현지 영어 소통 가능)
 
 ---
 
