@@ -2,25 +2,27 @@
 
 **Kweon Hyuk Jin**  
 010-9271-3940 · eric5025@naver.com · kweon5025@gmail.com  
-https://github.com/eric5025 · https://github.com/eric5025/resume
+https://github.com/eric5025 · https://eric5025.github.io/resume/en.html
 
 ---
 
 Dear HENNGE recruiting team,
 
-I am in the final year of the three-year Computer Software program at Induk University (associate degree, expected February 2027). I am applying because I want to grow as an engineer on a team that ships to real users, not only as someone who finishes tutorials. HENNGE’s challenge asked for working code, a private gist, and a protocol I had to read myself. That matches how I want to work.
+I am applying for the **Global Internship Program (GIP) — Full-stack pathway**. I am in the final year of the three-year Computer Software program at Induk University (associate degree, expected February 2027).
 
-Before I wrote web apps I worked on the administration team at Changwon Gijeon in my last year of high school: CAD drawing edits, attendance, and payroll. That job taught me that software sits inside a company’s actual flow, not on a blank editor. I then moved into IT. On 모동구 I was planning and frontend lead: we pulled club recruiting off Everytime and SNS into one Next.js service, and I owned UI structure, conventions, and collaboration with the rest of the team. TravelLens (내 손안의 스마트 한국여행) combines public data, maps, CCTV, and photo search so someone can explore Korea without already knowing the place name. Pitch Coach records a presentation and returns STT, pronunciation, speed, structure, and AI feedback.
+I want to build my career in Japan as an engineer, in a global English-speaking team. HENNGE’s name comes from “change” and “challenge,” and that matches how I want to work: keep learning, take hard problems seriously, and improve through feedback. The GIP’s focus on mentoring, AWS practice, and fundamentals—not only shipping features—is why I chose this program over a generic internship.
 
-I also built PHP/Laravel shops and sites on MariaDB, a Swift KBO app with Gemini recommendations, and smaller Unity and Access projects. I have studied Spring and used AWS (EC2, S3, RDS) as well. The stack is mixed because I learned by shipping, not by staying in one course.
+Before I wrote web apps, I worked on the administration team at Changwon Gijeon in my last year of high school: CAD edits, attendance, and payroll. That job taught me that software sits inside a company’s real workflow, not only in an editor. I then moved into IT.
 
-The HENNGE challenge used a different muscle. Mission 1 parsed test cases with no `for`, `while`, or comprehensions, rejected mismatched lengths, and summed fourth powers of non-positive numbers only after all input was read. Mission 3 was RFC 6238 TOTP with HMAC-SHA-512 and HTTP Basic Auth. I checked the SHA-512 vectors, then POSTed. The API returned HTTP 200 and Congratulations.
+On **모동구**, a club-matching platform for Modern Agile cohort 9, I was planning and frontend lead in a five-person team. We built one place for club recruiting instead of Everytime and scattered SNS posts. About five club groups used it for roughly three months; because it was a project-type site, we took the server down afterward, so it is no longer live. What mattered most to me was leading the frontend: screen design, component structure, code conventions, and code reviews. Helping teammates stay aligned was harder than writing my own screens—and more rewarding.
 
-I am applying specifically to the Global Internship Program because I want to build a career in Japan as an engineer, in a global English-speaking environment, and the GIP is a direct path into that. The full-stack pathway matches how I already work: I have shipped frontends in React/Next.js/TypeScript and backends in Node.js and PHP/Laravel on MariaDB, and I want mentor feedback to turn that into solid engineering fundamentals rather than just working features. I have used AWS (EC2, S3, RDS), and in a recent coursework project I wrote a Dockerfile, built the image, pushed it to AWS ECR, and deployed it on ECS (Fargate) down to public-IP access — so I have touched the full container-to-cloud pipeline, if not yet at production scale. The program's focus on cloud integration, security, state management, and testing is exactly where I want to grow.
+I also build backends (Node.js, PHP/Laravel, MariaDB) and recently completed coursework where I wrote a Dockerfile, pushed an image to AWS ECR, and deployed it on ECS (Fargate) to public-IP access. I have used AWS (EC2, S3, RDS) as well. I am not claiming production-scale DevOps experience; I am claiming I finish the path and can explain what I did.
 
-I am still early. I do not claim years of production backend experience. What I can offer is that I finish the path — a running app, a deployed URL, or a protocol from the RFC — and I have already practiced working inside someone else’s process. On this program I understand that I am both the engineer and the final quality check: I write my own code and I can explain my reasoning, trade-offs, and design decisions. I want to learn HENNGE’s codebase, English engineering culture, and how security sits next to product code.
+The HENNGE Challenge was a different kind of proof. Mission 1 used recursion only—no loops or comprehensions. Mission 3 was RFC 6238 TOTP with HMAC-SHA-512 and HTTP Basic Auth. I read the RFC, checked the vectors, POSTed, and received HTTP 200 and Congratulations. That is the kind of work I want more of at HENNGE: careful reading, honest implementation, and responsibility for my own code.
 
-Thank you for reviewing the challenge, this resume, and this letter.
+I understand that on this program I am both the engineer and the final quality check. I write my own code and I can explain my reasoning. I want to learn HENNGE’s codebase, English engineering culture, and how security sits next to product work—while contributing as a curious, adaptable teammate who keeps challenging himself.
+
+Thank you for reading.
 
 Sincerely,  
 Kweon Hyuk Jin  
