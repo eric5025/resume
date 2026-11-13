@@ -82,18 +82,35 @@ Swift, UIKit, Xcode, Gemini API, Git
 
 ## Education
 
-**Induk University** (인덕대학교) · Department of Computer Software  
-Three-year associate degree (전문학사) · Final year · Expected graduation Feb 2027
+| Period | School |
+| --- | --- |
+| 2024.03 – 2027.02 (expected) | **Induk University** (인덕대학교) · Dept. of Computer Software · 3-year associate degree (전문학사) · final year |
+| 2018.03 – 2021.01 | **Seoul Urban Science & Technology High School** · plant / industrial equipment track · graduated |
 
-## Other experience
+## Experience & activities
 
-**Changwon Gijeon (창원기전) · Administration team** · High school, senior year  
-CAD drawing edits, attendance and payroll.
+| Period | Role |
+| --- | --- |
+| 2020.09 – 2021.03 | **Changwon Gijeon (창원기전)** · administration team (during high school, 3rd year) — CAD edits, construction non-conformance, attendance and payroll. Learned that software lives inside a company's real workflow. |
+| 2024.12 – 2025.12 | **Modern Agile cohort 9** · frontend lead — built and deployed 모동구 |
+| 2021.12 – 2023.06 | Military service · ROK Army, sergeant · completed |
+
+## Awards & certifications
+
+| Date | Item |
+| --- | --- |
+| 2026.06 | React-based web frontend development — excellence · Induk University |
+| 2025.12 | Academic excellence award · Induk University |
+| 2025.12 | Online shopping mall development contest · Induk University |
+| 2025.11 | AWS service proficiency contest · Induk University |
+| 2025.11 | Laravel web solution contest · Induk University |
+| 2025.10 | Smart DBMS contest · Induk University |
+| 2020.06 | Gas technician · Welding technician · HRD Korea |
 
 ---
 
 ## Recent
 
-- **HENNGE Challenge 004** — recursive Python (no loops / no comprehensions), private gist, RFC 6238 HMAC-SHA-512 TOTP. Mission 3 returned HTTP 200.
+- **HENNGE Challenge 004 — completed and submitted.** Recursive Python (no loops / no comprehensions), private gist, RFC 6238 HMAC-SHA-512 TOTP over HTTP Basic Auth. Mission 3 returned HTTP 200 and Congratulations.
 
 Cover letter: [COVER_LETTER.md](./COVER_LETTER.md) · 한국어: [README.ko.md](./README.ko.md)
