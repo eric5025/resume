@@ -70,7 +70,8 @@ React Native, Node.js, Firebase, 공공데이터, Google Maps, AI 이미지 검�
 백엔드/DB: PHP, Laravel, Spring, Node.js, MariaDB, MySQL, Firebase  
 클라우드: AWS (EC2, S3, RDS), Vercel, Firebase  
 인증/보안: JWT(토큰 재발급), TOTP(RFC 6238), HMAC-SHA-512, HTTP Basic Auth  
-기타: Unity, C#, Python, MS Access, Git, GitHub, Linux
+DevOps(학습 중): Docker(실습 수준), GitHub, Vercel 배포, Linux  
+기타: Unity, C#, Python, MS Access, Git, Notion
 
 ---
 

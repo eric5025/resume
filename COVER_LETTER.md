@@ -16,7 +16,9 @@ I also built PHP/Laravel shops and sites on MariaDB, a Swift KBO app with Gemini
 
 The HENNGE challenge used a different muscle. Mission 1 parsed test cases with no `for`, `while`, or comprehensions, rejected mismatched lengths, and summed fourth powers of non-positive numbers only after all input was read. Mission 3 was RFC 6238 TOTP with HMAC-SHA-512 and HTTP Basic Auth. I checked the SHA-512 vectors, then POSTed. The API returned HTTP 200 and Congratulations.
 
-I am still early. I do not claim years of production backend experience. What I can offer is that I finish the path — a running app, a deployed URL, or a protocol from the RFC — and I have already practiced working inside someone else’s process. I want to learn HENNGE’s codebase, English engineering culture, and how security sits next to product code.
+I am applying specifically to the Global Internship Program because I want to build a career in Japan as an engineer, in a global English-speaking environment, and the GIP is a direct path into that. The full-stack pathway matches how I already work: I have shipped frontends in React/Next.js/TypeScript and backends in Node.js and PHP/Laravel on MariaDB, and I want mentor feedback to turn that into solid engineering fundamentals rather than just working features. I have used AWS (EC2, S3, RDS) and am learning Docker and DevOps now; the program's focus on cloud integration, security, state management, and testing is exactly where I want to grow.
+
+I am still early. I do not claim years of production backend experience. What I can offer is that I finish the path — a running app, a deployed URL, or a protocol from the RFC — and I have already practiced working inside someone else’s process. On this program I understand that I am both the engineer and the final quality check: I write my own code and I can explain my reasoning, trade-offs, and design decisions. I want to learn HENNGE’s codebase, English engineering culture, and how security sits next to product code.
 
 Thank you for reviewing the challenge, this resume, and this letter.
 
